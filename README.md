@@ -12,9 +12,13 @@ Projetos do mundo real com intenção de estudar um pouco mais sobre uso de Type
 
 ## 💻 Projects Developed
 
-- ✅ **[Project-01]()**
-- ✅ **[Project-02]()**
-- ✅ **[Project-03]()**
-- ✅ **[Project-04]()**
-- ✅ **[Project-05]()**
-- ✅ **[Project-06]()**
+- ✅ **[Project-01](./project-01/README.md)**
+- ✅ **[Project-02](./project-02/README.md)**
+- ✅ **[Project-03](./project-03/README.md)**
+- ✅ **[Project-04](./project-04/README.md)**
+- ✅ **[Project-05](./project-05/README.md)**
+- ✅ **[Project-06](./project-06/README.md)**
+
+## ❓ Tenho Dúvidas... O que Faço?!
+
+Caso tenham dúvidas aos códigos desenvolvidos durante as demos desenvolvidas, sintam-se à vontade em abrir uma **[ISSUE AQUI](https://github.com/glaucia86/projects-ts-studies/issues)**. Assim que possível, estarei respondendo a todas as dúvidas que tiverem!
