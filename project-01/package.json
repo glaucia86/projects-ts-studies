@@ -1,0 +1,36 @@
+{
+  "name": "project-01",
+  "version": "1.0.0",
+  "description": "A simple project to create a RESTful API with Express and TypeScript. And then we'll use Swagger to document the API.",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint 'src/**/*.ts'",
+    "eslint:fix": "eslint --fix 'src/**/*.ts'",
+    "lint-staged": {
+      "src/**/*.ts": [
+        "eslint --fix",
+        "git add"
+      ]
+    }
+  },
+  "keywords": [
+    "typescript",
+    "nodejs",
+    "expressjs",
+    "swagger",
+    "postgresql"
+  ],
+  "author": "Glaucia Lemos <Twitter: @glaucia_lemos86>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "2.4.1",
+    "typescript": "^4.4.3"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.32.0",
+    "@typescript-eslint/parser": "^4.32.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "ts-node": "^10.2.1"
+  }
+}

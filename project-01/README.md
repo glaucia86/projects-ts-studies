@@ -1,15 +1,16 @@
-# Project 01 -
+# Project 01 - RESTful API with Express + TypeScript
 
-<Project-01-description>
+A simple project to create a RESTful API with Express and TypeScript. And then we'll use Swagger to document the API.
 
-## 🚀 Recursos Utilizados
+## 🚀 Resources Used
 
 - ✅ **[TypeScript](https://www.typescriptlang.org/download)**
 - ✅ **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=javascript-14034-gllemos)**
 - ✅ **[Node.js](https://nodejs.org/en/)**
 - ✅ **[Postman](https://www.getpostman.com/)**
-- ✅ **[Extensão Visual Studio Code - Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner&WT.mc_id=javascript-14034-gllemos)**
+- ✅ **[Swagger](https://swagger.io/)**
+- ✅ **[Visual Studio Code Extension - Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner&WT.mc_id=javascript-14034-gllemos)**
 
-## ❓ Tenho Dúvidas... O que Faço?!
+## ❓ I have doubts...What should I do?!
 
-Caso tenham dúvidas aos códigos desenvolvidos durante as demos desenvolvidas, sintam-se à vontade em abrir uma **[ISSUE AQUI](https://github.com/glaucia86/projects-ts-studies/issues)**. Assim que possível, estarei respondendo a todas as dúvidas que tiverem!
+If you have any doubts about the code, please feel free to open an issue **[HERE](https://github.com/glaucia86/projects-ts-studies/issues)**. As soon as possible, I'll be answering your questions you may have.
