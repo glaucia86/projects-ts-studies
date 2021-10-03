@@ -4,7 +4,7 @@
   "description": "A simple project to create a RESTful API with Express and TypeScript. And then we'll use Swagger to document the API.",
   "main": "index.js",
   "scripts": {
-    "start": "node build/index.js",
+    "start": "node build/main/server.js",
     "build": "tsc"
   },
   "keywords": [
