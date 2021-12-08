@@ -12,7 +12,8 @@
     "nodejs",
     "expressjs",
     "swagger",
-    "postgresql"
+    "postgresql",
+    "azure"
   ],
   "author": "Glaucia Lemos <Twitter: @glaucia_lemos86>",
   "license": "MIT",
